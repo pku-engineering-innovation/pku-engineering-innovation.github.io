@@ -1,0 +1,346 @@
+window.sitePhotos = [
+  {
+    "event": 1,
+    "file": "media/e01-01.webp",
+    "caption": "训练营现场介绍具身智能项目与实践任务",
+    "width": 1500,
+    "height": 999
+  },
+  {
+    "event": 1,
+    "file": "media/e01-02.webp",
+    "caption": "同学们分组调试机械臂，在操作台前交流",
+    "width": 1500,
+    "height": 999
+  },
+  {
+    "event": 1,
+    "file": "media/e01-03.webp",
+    "caption": "学员围绕机械臂讨论实验步骤",
+    "width": 1500,
+    "height": 998
+  },
+  {
+    "event": 1,
+    "file": "media/e01-04.webp",
+    "caption": "SparkEdu 北京大学站训练营师生合影",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "event": 1,
+    "file": "media/e01-05.webp",
+    "caption": "同学们围在电脑旁检查实验结果",
+    "width": 720,
+    "height": 1080
+  },
+  {
+    "event": 1,
+    "file": "media/e01-06.webp",
+    "caption": "结营交流结束后，师生在报告厅合影",
+    "width": 1500,
+    "height": 998
+  },
+  {
+    "event": 1,
+    "file": "media/e01-07.webp",
+    "caption": "小组在电脑与机械臂之间比对任务执行结果",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "event": 1,
+    "file": "media/e01-08.webp",
+    "caption": "学员展示机械臂实验装置",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "event": 2,
+    "file": "media/e02-01.webp",
+    "caption": "小班学员查看实验设备",
+    "width": 1500,
+    "height": 843
+  },
+  {
+    "event": 2,
+    "file": "media/e02-02.webp",
+    "caption": "在实验桌前演示设备连接与操作",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 2,
+    "file": "media/e02-03.webp",
+    "caption": "围绕软件工具和学习资料展开讨论",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 2,
+    "file": "media/e02-04.webp",
+    "caption": "机械臂操作实验现场",
+    "width": 1500,
+    "height": 843
+  },
+  {
+    "event": 2,
+    "file": "media/e02-05.webp",
+    "caption": "通过可视化界面回看实验数据",
+    "width": 462,
+    "height": 112
+  },
+  {
+    "event": 2,
+    "file": "media/e02-06.webp",
+    "caption": "在机械臂工作台旁讨论调试问题",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-01.webp",
+    "caption": "报告人介绍视觉语言动作模型（VLA）",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-02.webp",
+    "caption": "从数据与模型两个角度介绍 PhysBrain",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-03.webp",
+    "caption": "逐际动力分享 ARM 长程操作研究",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-04.webp",
+    "caption": "交流离线强化学习与模仿学习的区别",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-05.webp",
+    "caption": "报告人讨论机器人学习的后续研究方向",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 3,
+    "file": "media/e03-06.webp",
+    "caption": "与会者围绕离线强化学习方案提问",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 4,
+    "file": "media/e04-01.webp",
+    "caption": "英伟达具身智能技术分享开场",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 4,
+    "file": "media/e04-02.webp",
+    "caption": "报告人介绍物理 AI 与机器人计算",
+    "width": 1080,
+    "height": 809
+  },
+  {
+    "event": 4,
+    "file": "media/e04-03.webp",
+    "caption": "与会师生围绕技术问题交流",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 4,
+    "file": "media/e04-04.webp",
+    "caption": "座谈后的自由交流",
+    "width": 1039,
+    "height": 779
+  },
+  {
+    "event": 4,
+    "file": "media/e04-05.webp",
+    "caption": "参会同学在会后交流",
+    "width": 1039,
+    "height": 779
+  },
+  {
+    "event": 4,
+    "file": "media/e04-06.webp",
+    "caption": "与会者在新奥工学大楼交流讨论",
+    "width": 937,
+    "height": 1250
+  },
+  {
+    "event": 5,
+    "file": "media/e05-01.webp",
+    "caption": "Peter Childs 作工程设计专题报告",
+    "width": 893,
+    "height": 618
+  },
+  {
+    "event": 5,
+    "file": "media/e05-02.webp",
+    "caption": "工作坊学员在课堂上交流设计思路",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-03.webp",
+    "caption": "导师与学员讨论团队方案",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-04.webp",
+    "caption": "学员介绍仿生设计思路",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-05.webp",
+    "caption": "学生汇报团队设计成果",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-06.webp",
+    "caption": "工作坊团队展示结题方案",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-07.webp",
+    "caption": "优秀团队领取证书",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 5,
+    "file": "media/e05-08.webp",
+    "caption": "国际工程设计与创新 Workshop 师生合影",
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "event": 6,
+    "file": "media/e06-01.webp",
+    "caption": "“知行中国”北京大学专场参与者合影",
+    "width": 864,
+    "height": 414
+  },
+  {
+    "event": 6,
+    "file": "media/e06-02.webp",
+    "caption": "校级活动图组 · 青年倡议与院系参访",
+    "width": 864,
+    "height": 648
+  },
+  {
+    "event": 6,
+    "file": "media/e06-03.webp",
+    "caption": "校级活动图组 · 中美青年科技交流",
+    "width": 726,
+    "height": 969
+  },
+  {
+    "event": 7,
+    "file": "media/e07-01.webp",
+    "caption": "北京大学校园开放日入口",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 7,
+    "file": "media/e07-02.webp",
+    "caption": "开放日院系咨询区",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 7,
+    "file": "media/e07-03.webp",
+    "caption": "开放日本科招生宣讲会现场",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 7,
+    "file": "media/e07-04.webp",
+    "caption": "学生与家长在校园展位前咨询",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 7,
+    "file": "media/e07-05.webp",
+    "caption": "开放日参观者走进实验室",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 7,
+    "file": "media/e07-06.webp",
+    "caption": "院系展位介绍学习与培养方向",
+    "width": 1500,
+    "height": 1000
+  },
+  {
+    "event": 8,
+    "file": "media/e08-01.webp",
+    "caption": "协会成员向青少年介绍机器人与 3D 打印实践",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 8,
+    "file": "media/e08-02.webp",
+    "caption": "小朋友围在展桌旁观察机械臂",
+    "width": 1500,
+    "height": 1125
+  },
+  {
+    "event": 8,
+    "file": "media/e08-03.webp",
+    "caption": "“科技点亮生活”校级活动启动现场",
+    "width": 958,
+    "height": 638
+  },
+  {
+    "event": 8,
+    "file": "media/e08-04.webp",
+    "caption": "“科技点亮生活”校园科普现场图组",
+    "width": 948,
+    "height": 1250
+  },
+  {
+    "event": 8,
+    "file": "media/e08-05.webp",
+    "caption": "第四届“科技点亮生活”活动介绍展板",
+    "width": 1269,
+    "height": 634
+  },
+  {
+    "event": 8,
+    "file": "media/e08-06.webp",
+    "caption": "校级活动工作人员合影",
+    "width": 962,
+    "height": 641
+  }
+]
+;
